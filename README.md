@@ -3,7 +3,7 @@
 
 ## Description
 
-create a readme file
+create a good readme file
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ answer the questions
 
 ## Questions
 
-this is
+finish
 
 Email: moontjdgml@gmail.com
-Github: [sungheemoon](https://github.com/sungheemoon/);
+Github: [SungheeMoon](https://github.com/SungheeMoon/);
