@@ -1,9 +1,9 @@
-# good readne generator
+# good-readme-generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-generrator
+create a readme file
 
 ## Table of Contents
 
@@ -22,12 +22,12 @@ npm i
 ## Usage
 
 ```
-jkl
+answer the questions
 ```
 
 ## Questions
 
-gh
+this is
 
 Email: moontjdgml@gmail.com
 Github: [sungheemoon](https://github.com/sungheemoon/);
